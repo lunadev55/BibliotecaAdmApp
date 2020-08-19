@@ -1,0 +1,9 @@
+C:\Users\Renda - NE\source\repos\BibliotecaAdmApp\BibliotecaAdmApp.Core\bin\Debug\netstandard2.0\BibliotecaAdmApp.Core.deps.json
+C:\Users\Renda - NE\source\repos\BibliotecaAdmApp\BibliotecaAdmApp.Core\bin\Debug\netstandard2.0\BibliotecaAdmApp.Core.dll
+C:\Users\Renda - NE\source\repos\BibliotecaAdmApp\BibliotecaAdmApp.Core\bin\Debug\netstandard2.0\BibliotecaAdmApp.Core.pdb
+C:\Users\Renda - NE\source\repos\BibliotecaAdmApp\BibliotecaAdmApp.Core\obj\Debug\netstandard2.0\BibliotecaAdmApp.Core.csprojAssemblyReference.cache
+C:\Users\Renda - NE\source\repos\BibliotecaAdmApp\BibliotecaAdmApp.Core\obj\Debug\netstandard2.0\BibliotecaAdmApp.Core.AssemblyInfoInputs.cache
+C:\Users\Renda - NE\source\repos\BibliotecaAdmApp\BibliotecaAdmApp.Core\obj\Debug\netstandard2.0\BibliotecaAdmApp.Core.AssemblyInfo.cs
+C:\Users\Renda - NE\source\repos\BibliotecaAdmApp\BibliotecaAdmApp.Core\obj\Debug\netstandard2.0\BibliotecaAdmApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\Renda - NE\source\repos\BibliotecaAdmApp\BibliotecaAdmApp.Core\obj\Debug\netstandard2.0\BibliotecaAdmApp.Core.dll
+C:\Users\Renda - NE\source\repos\BibliotecaAdmApp\BibliotecaAdmApp.Core\obj\Debug\netstandard2.0\BibliotecaAdmApp.Core.pdb

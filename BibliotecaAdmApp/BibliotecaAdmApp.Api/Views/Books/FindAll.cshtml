@@ -1,0 +1,81 @@
+﻿@*@model List<BibliotecaAdmApp.Core.Entities.Book>*@
+@model List<BibliotecaAdmApp.Application.Books.Dto.BookDto>
+
+@{
+    ViewData["Title"] = "Livros";
+}
+
+<h1>Lista</h1>
+
+<div class="container margin">
+    <div class="input-group md-form form-sm form-2 pl-0">
+        @*<form asp-action="Index" method="get">
+            <input class="form-control my-0 py-1 lime-border" name="searchString" value='@ViewData["currentFilter"]' type="text" placeholder="Buscar por nome" aria-label="Search">
+            <div class="input-group-append">
+                <span class="input-group-text lime lighten-2" id="basic-text1">                    
+                    <input type="submit" value="Buscar">
+                </span>
+            </div>
+        </form>*@
+    </div>
+</div>
+
+<p>
+    <a asp-action="Create" >Adicionar novo livro</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @*@Html.DisplayNameFor(model => model.Category)*@
+                Category
+            </th>
+            <th>
+                @*@Html.DisplayNameFor(model => model.Name)*@
+                Name
+            </th>
+            <th>
+                @*@Html.DisplayNameFor(model => model.Author)*@
+                Author
+            </th>
+            <th>
+                @*@Html.DisplayNameFor(model => model.Pages)*@
+                Pages
+            </th>
+            <th>
+                @*@Html.DisplayNameFor(model => model.Status)*@
+                Status
+            </th>            
+            <th>
+                Ações
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Category)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Author)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Pages)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Status)
+                </td>                
+                <td>
+                    <a asp-action="Update" asp-route-id="@item.Id">Editar</a> |
+                    <a asp-action="Delete" asp-route-id="@item.Id">Deletar</a>     
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,14 @@
+C:\Users\Renda - NE\source\repos\BibliotecaAdmApp\BibliotecaAdmApp.Infrastructure\bin\Debug\netstandard2.0\BibliotecaAdmApp.Infrastructure.deps.json
+C:\Users\Renda - NE\source\repos\BibliotecaAdmApp\BibliotecaAdmApp.Infrastructure\bin\Debug\netstandard2.0\BibliotecaAdmApp.Infrastructure.dll
+C:\Users\Renda - NE\source\repos\BibliotecaAdmApp\BibliotecaAdmApp.Infrastructure\bin\Debug\netstandard2.0\BibliotecaAdmApp.Infrastructure.pdb
+C:\Users\Renda - NE\source\repos\BibliotecaAdmApp\BibliotecaAdmApp.Infrastructure\obj\Debug\netstandard2.0\BibliotecaAdmApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Renda - NE\source\repos\BibliotecaAdmApp\BibliotecaAdmApp.Infrastructure\obj\Debug\netstandard2.0\BibliotecaAdmApp.Infrastructure.AssemblyInfo.cs
+C:\Users\Renda - NE\source\repos\BibliotecaAdmApp\BibliotecaAdmApp.Infrastructure\obj\Debug\netstandard2.0\BibliotecaAdmApp.Infrastructure.dll
+C:\Users\Renda - NE\source\repos\BibliotecaAdmApp\BibliotecaAdmApp.Infrastructure\obj\Debug\netstandard2.0\BibliotecaAdmApp.Infrastructure.pdb
+C:\Users\Renda - NE\source\repos\BibliotecaAdmApp\BibliotecaAdmApp.Infrastructure\bin\Debug\netstandard2.0\BibliotecaAdmApp.Application.dll
+C:\Users\Renda - NE\source\repos\BibliotecaAdmApp\BibliotecaAdmApp.Infrastructure\bin\Debug\netstandard2.0\BibliotecaAdmApp.Core.dll
+C:\Users\Renda - NE\source\repos\BibliotecaAdmApp\BibliotecaAdmApp.Infrastructure\bin\Debug\netstandard2.0\BibliotecaAdmApp.Application.pdb
+C:\Users\Renda - NE\source\repos\BibliotecaAdmApp\BibliotecaAdmApp.Infrastructure\bin\Debug\netstandard2.0\BibliotecaAdmApp.Core.pdb
+C:\Users\Renda - NE\source\repos\BibliotecaAdmApp\BibliotecaAdmApp.Infrastructure\obj\Debug\netstandard2.0\BibliotecaAdmApp.Infrastructure.csprojAssemblyReference.cache
+C:\Users\Renda - NE\source\repos\BibliotecaAdmApp\BibliotecaAdmApp.Infrastructure\obj\Debug\netstandard2.0\BibliotecaAdmApp.Infrastructure.csproj.CopyComplete
+C:\Users\Renda - NE\source\repos\BibliotecaAdmApp\BibliotecaAdmApp.Infrastructure\obj\Debug\netstandard2.0\BibliotecaAdmApp.Infrastructure.csproj.CoreCompileInputs.cache
