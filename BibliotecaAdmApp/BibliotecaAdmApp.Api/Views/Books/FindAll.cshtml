@@ -1,4 +1,4 @@
-﻿@*@model List<BibliotecaAdmApp.Core.Entities.Book>*@
+@*@model List<BibliotecaAdmApp.Core.Entities.Book>*@
 @model List<BibliotecaAdmApp.Application.Books.Dto.BookDto>
 
 @{
@@ -6,19 +6,6 @@
 }
 
 <h1>Lista</h1>
-
-<div class="container margin">
-    <div class="input-group md-form form-sm form-2 pl-0">
-        @*<form asp-action="Index" method="get">
-            <input class="form-control my-0 py-1 lime-border" name="searchString" value='@ViewData["currentFilter"]' type="text" placeholder="Buscar por nome" aria-label="Search">
-            <div class="input-group-append">
-                <span class="input-group-text lime lighten-2" id="basic-text1">                    
-                    <input type="submit" value="Buscar">
-                </span>
-            </div>
-        </form>*@
-    </div>
-</div>
 
 <p>
     <a asp-action="Create" >Adicionar novo livro</a>

@@ -85,6 +85,8 @@ namespace BibliotecaAdmApp.Infrastructure.Repositories
 
         public async Task<int> Update(Core.Entities.Book entity)
         {
+            var id = entity.Id;
+
             var status_aux = "'Disponivel'";
 
             if (entity.Status == Core.Enums.BookStatus.Indisponivel)
@@ -93,7 +95,7 @@ namespace BibliotecaAdmApp.Infrastructure.Repositories
             }
 
             string script = @"UPDATE Books SET Category = @Category, Name = @Name, Author = @Author,
-                              Pages = @Pages, Status = " + status_aux + ";";
+                              Pages = @Pages, Status = " + status_aux + " WHERE Id = " + id + ";";
 
             using (var connection = new SqlConnection(_configuration.GetConnectionString("DefaultConnection")))
             {
